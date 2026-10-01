@@ -1,0 +1,10 @@
+DIRECCIONES DE MEMORIA
+Direccion de x: 0xf90b9ff8d4
+Direccion ptrx:0xf90b9ff8d4
+Direccion propia de ptrx:0xf90b9ff8c8
+Direccion de ref:0xf90b9ff8d4
+
+VALORES
+Valor de x:      82
+Valor de *ptrx:  82
+Valor de ref:    82

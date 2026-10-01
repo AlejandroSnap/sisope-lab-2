@@ -18,6 +18,8 @@ int main(int argc, char const *argv[]){
         cout << x << " ";
     }
 
+    cout << endl;
+
     cout << "Direcciones de memoria" << endl;
     cout << "direccion de arr: " << arr << endl;
     cout << "direccion de p: " << &p << endl;
