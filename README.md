@@ -25,3 +25,6 @@ En el programa `main.cpp` de `act-4`, se declaran las siguientes variables de ti
 
 ## extra
 En el programa `main.cpp` de `extra`, se declaran las siguienstes variables de tipo entero: `stack` un entero arbitrario, `heap` un entero con memoria dinamica. Para posteriormente imprimir las direcciones de `stack`, `heap`, `text/code`. 
+
+# Nota
+Cada carpeta, contiene el archivo de salida (`out`) de la ejecucción del programa correspondiente (`main.cpp`), asociado a cada carpeta.
